@@ -1,0 +1,26 @@
+{% case index %}
+  {% when 1 %}
+    {% assign demo_title = 'Champagne Problems Social Club Tee' %}
+    {% assign demo_price = '$38.00' %}
+    {% assign demo_asset = 'demo-social-club-tee.svg' %}
+  {% when 2 %}
+    {% assign demo_title = 'Pour Decisions Crewneck' %}
+    {% assign demo_price = '$64.00' %}
+    {% assign demo_asset = 'demo-pour-decisions-crewneck.svg' %}
+  {% when 3 %}
+    {% assign demo_title = 'Bubbly Weekend Tote' %}
+    {% assign demo_price = '$34.00' %}
+    {% assign demo_asset = 'demo-weekend-tote.svg' %}
+  {% else %}
+    {% assign demo_title = 'Main Character Tumbler' %}
+    {% assign demo_price = '$32.00' %}
+    {% assign demo_asset = 'demo-main-character-tumbler.svg' %}
+{% endcase %}
+<article class="product-card demo-product-card">
+  <div class="product-card__media">
+    <img src="{{ demo_asset | asset_url }}" width="800" height="1000" loading="lazy" alt="Concept mockup for {{ demo_title | escape }}">
+    <span class="product-card__badge">Concept preview</span>
+  </div>
+  <div class="product-card__info"><h3>{{ demo_title }}</h3><span class="price">{{ demo_price }}</span></div>
+  <span class="demo-product-card__note">Demo only · Not for sale</span>
+</article>

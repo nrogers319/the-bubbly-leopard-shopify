@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Main Character Tumbler</title><desc id="desc">Champagne gold insulated tumbler concept on an espresso and blush background.</desc>
+  <rect width="800" height="1000" fill="#3A2C1E"/><path d="M0 745C170 660 252 812 420 744s269-33 380 36v220H0z" fill="#CF7D83"/>
+  <path d="M314 222h172l-27 541c-2 45-34 70-59 70s-57-25-59-70z" fill="#B49168" stroke="#FCF8F3" stroke-width="5"/>
+  <path d="M297 216h206v39H297z" fill="#FCF8F3" stroke="#B49168" stroke-width="5"/><path d="M435 222 504 86" fill="none" stroke="#FCF8F3" stroke-width="17" stroke-linecap="round"/>
+  <g fill="none" stroke="#3A2C1E" stroke-width="9"><circle cx="371" cy="384" r="28" stroke-dasharray="27 14"/><circle cx="437" cy="410" r="32" stroke-dasharray="31 17"/><circle cx="400" cy="461" r="25" stroke-dasharray="25 13"/></g>
+  <text x="400" y="552" text-anchor="middle" fill="#3A2C1E" font-family="Georgia,serif" font-size="29">MAIN</text><text x="400" y="591" text-anchor="middle" fill="#3A2C1E" font-family="Georgia,serif" font-size="29">CHARACTER</text>
+  <text x="400" y="930" text-anchor="middle" fill="#FCF8F3" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">THE BUBBLY LEOPARD · CONCEPT 04</text>
+</svg>

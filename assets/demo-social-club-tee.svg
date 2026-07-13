@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Champagne Problems Social Club Tee</title><desc id="desc">Ivory graphic tee concept on a blush studio background.</desc>
+  <rect width="800" height="1000" fill="#E9C9CA"/><circle cx="640" cy="160" r="105" fill="#CF7D83" opacity=".35"/>
+  <path d="M221 244 333 184h134l112 60 91 154-119 66-34-57v403H283V407l-34 57-119-66z" fill="#FCF8F3" stroke="#B49168" stroke-width="5"/>
+  <path d="M335 186c6 74 124 74 130 0" fill="none" stroke="#B49168" stroke-width="5"/>
+  <g fill="#B49168" opacity=".9"><ellipse cx="355" cy="410" rx="18" ry="24"/><ellipse cx="443" cy="420" rx="20" ry="26"/><ellipse cx="402" cy="380" rx="14" ry="20"/></g>
+  <text x="400" y="478" text-anchor="middle" fill="#3A2C1E" font-family="Georgia,serif" font-size="33" letter-spacing="2">CHAMPAGNE</text>
+  <text x="400" y="522" text-anchor="middle" fill="#CF7D83" font-family="Georgia,serif" font-size="29" font-style="italic">Problems</text>
+  <text x="400" y="554" text-anchor="middle" fill="#3A2C1E" font-family="Arial,sans-serif" font-size="14" letter-spacing="5">SOCIAL CLUB</text>
+  <text x="400" y="930" text-anchor="middle" fill="#3A2C1E" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">THE BUBBLY LEOPARD · CONCEPT 01</text>
+</svg>

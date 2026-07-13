@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Bubbly Weekend Tote</title><desc id="desc">Canvas weekend tote concept with leopard rosettes on a champagne background.</desc>
+  <rect width="800" height="1000" fill="#D8BF9F"/><rect x="180" y="310" width="440" height="505" rx="10" fill="#FCF8F3" stroke="#3A2C1E" stroke-width="5"/>
+  <path d="M290 332c0-157 220-157 220 0" fill="none" stroke="#3A2C1E" stroke-width="26"/><path d="M291 332c0-139 218-139 218 0" fill="none" stroke="#FCF8F3" stroke-width="14"/>
+  <g fill="none" stroke="#B49168" stroke-width="10"><circle cx="277" cy="478" r="29" stroke-dasharray="29 16"/><circle cx="521" cy="500" r="35" stroke-dasharray="35 18"/><circle cx="488" cy="666" r="24" stroke-dasharray="25 13"/><circle cx="310" cy="679" r="32" stroke-dasharray="32 17"/></g>
+  <text x="400" y="550" text-anchor="middle" fill="#CF7D83" font-family="Georgia,serif" font-size="30" font-style="italic">The</text>
+  <text x="400" y="594" text-anchor="middle" fill="#3A2C1E" font-family="Georgia,serif" font-size="46">Bubbly</text>
+  <text x="400" y="635" text-anchor="middle" fill="#3A2C1E" font-family="Georgia,serif" font-size="40">Weekend</text>
+  <text x="400" y="930" text-anchor="middle" fill="#3A2C1E" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">THE BUBBLY LEOPARD · CONCEPT 03</text>
+</svg>
