@@ -1,4 +1,4 @@
-<header class="site-header">
+<header class="site-header" style="--header-logo-width: {{ section.settings.logo_width }}px">
   <div class="header-inner page-width">
     <button class="menu-toggle" data-menu-toggle aria-expanded="false" aria-controls="MobileMenu">Menu</button>
     <div class="header-utility header-utility--left"><button class="header-icon" type="button" data-menu-toggle aria-expanded="false" aria-controls="MobileMenu"><span aria-hidden="true">☰</span><span class="visually-hidden">Open menu</span></button></div>
@@ -18,4 +18,4 @@
     {% for link in section.settings.menu.links %}<a href="{{ link.url }}">{{ link.title }}</a>{% endfor %}
   </nav>
 </header>
-{% schema %}{"name":"Header","settings":[{"type":"image_picker","id":"logo","label":"Replacement logo","info":"The approved Bubbly Leopard logo is used automatically when this is left blank."},{"type":"link_list","id":"menu","label":"Menu","default":"main-menu"}]}{% endschema %}
+{% schema %}{"name":"Header","settings":[{"type":"image_picker","id":"logo","label":"Replacement logo","info":"The approved Bubbly Leopard logo is used automatically when this is left blank."},{"type":"range","id":"logo_width","label":"Logo width","min":240,"max":440,"step":10,"unit":"px","default":350},{"type":"link_list","id":"menu","label":"Menu","default":"main-menu"}]}{% endschema %}
