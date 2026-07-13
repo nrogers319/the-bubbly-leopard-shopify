@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const toggles=document.querySelectorAll('[data-menu-toggle]');const menu=document.querySelector('[data-mobile-menu]');if(!menu)return;toggles.forEach(toggle=>toggle.addEventListener('click',()=>{const open=menu.classList.toggle('open');toggles.forEach(item=>item.setAttribute('aria-expanded',open))}))});
