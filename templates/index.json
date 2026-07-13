@@ -27,8 +27,20 @@
         "limit": 4
       }
     },
-    "manifesto": { "type": "brand-manifesto", "settings": {} },
-    "story": { "type": "image-with-text", "settings": {} },
+    "manifesto": {
+      "type": "brand-manifesto",
+      "settings": {
+        "eyebrow": "Our house rules",
+        "heading": "Never save the good outfit."
+      }
+    },
+    "story": {
+      "type": "image-with-text",
+      "settings": {
+        "eyebrow": "Spotted in the wild",
+        "heading": "Your new occasion uniform."
+      }
+    },
     "newsletter": { "type": "newsletter", "settings": {} }
   },
   "order": ["hero", "trust", "featured", "manifesto", "story", "newsletter"]
