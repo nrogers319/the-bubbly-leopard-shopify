@@ -1,1 +1,35 @@
-{"sections":{"hero":{"type":"hero-editorial","settings":{}},"trust":{"type":"trust-strip","blocks":{"one":{"type":"item","settings":{"text":"Made to order"}},"two":{"type":"item","settings":{"text":"Secure checkout"}},"three":{"type":"item","settings":{"text":"Happiness looks good on you"}}},"block_order":["one","two","three"],"settings":{}},"featured":{"type":"featured-collection","settings":{}},"manifesto":{"type":"brand-manifesto","settings":{}},"story":{"type":"image-with-text","settings":{}},"newsletter":{"type":"newsletter","settings":{}}},"order":["hero","trust","featured","manifesto","story","newsletter"]}
+{
+  "sections": {
+    "hero": {
+      "type": "hero-editorial",
+      "settings": {
+        "eyebrow": "For life’s most unforgettable moments",
+        "heading": "Dress for the toast.",
+        "text": "Effortless looks for birthdays, brunches, girls’ trips, and every beautifully unnecessary reason to celebrate.",
+        "button_label": "Shop the first pour"
+      }
+    },
+    "trust": {
+      "type": "trust-strip",
+      "blocks": {
+        "one": { "type": "item", "settings": { "text": "Made to order" } },
+        "two": { "type": "item", "settings": { "text": "Secure checkout" } },
+        "three": { "type": "item", "settings": { "text": "Happiness looks good on you" } }
+      },
+      "block_order": ["one", "two", "three"],
+      "settings": {}
+    },
+    "featured": {
+      "type": "featured-collection",
+      "settings": {
+        "eyebrow": "The opening round",
+        "heading": "Best sellers",
+        "limit": 4
+      }
+    },
+    "manifesto": { "type": "brand-manifesto", "settings": {} },
+    "story": { "type": "image-with-text", "settings": {} },
+    "newsletter": { "type": "newsletter", "settings": {} }
+  },
+  "order": ["hero", "trust", "featured", "manifesto", "story", "newsletter"]
+}
